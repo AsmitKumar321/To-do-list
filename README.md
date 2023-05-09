@@ -1,2 +1,12 @@
-# To-do-list using HTML5 CSS3 and JavaScript
-Live Demo: https://asmitkumar321.github.io/To-do-list/
+# To-Do List Project
+
+This is to-do list project created by using HTML, CSS, and JavaScript.
+
+## Usage
+
+To use the to-do list, You can write to-do work and add it. then work is finished you can check & delete it.
+
+## Demo
+
+You can try out To-Do List WebApp [click]
+(https://asmitkumar321.github.io/To-do-list/)
