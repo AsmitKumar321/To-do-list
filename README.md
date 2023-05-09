@@ -8,5 +8,5 @@ To use the to-do list, You can write to-do work and add it. then work is finishe
 
 ## Demo
 
-You can try out To-Do List WebApp [click]
-(https://asmitkumar321.github.io/To-do-list/)
+You can try out To-Do List WebApp [here]
+(https://asmitkumar321.github.io/To-do-list/).
